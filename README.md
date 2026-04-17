@@ -8,3 +8,6 @@ Keep in mind, it will only compile proper texture shadows if the model is a stat
 
 How to use them is described [on this Steam guide](https://steamcommunity.com/sharedfiles/filedetails/?id=3406090419)
 Or in [this video](https://youtu.be/6SBxyA82j-M?si=47onNzJPdT0AVSdK)
+
+
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/A0A11XXM4Q)
